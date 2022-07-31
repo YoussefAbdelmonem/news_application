@@ -1,0 +1,268 @@
+
+
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "Drone explosion hits Russia's Black Sea Fleet HQ - The Associated Press",
+      "description": "KYIV, Ukraine (AP) — A drone-borne explosive device detonated Sunday at the headquarters of Russia's Black Sea Fleet, injuring six people, officials said. The explosion at the headquarters in the city of Sevastopol on the Crimean peninsula that Russia annexed…",
+      "url": "https://apnews.com/article/russia-ukraine-explosions-black-sea-crimea-ddf4744077bac371392763b5cd77f25d",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/a16184628c754e938c29ec0c86d44edb/3000.jpeg",
+      "publishedAt": "2022-07-31T10:36:17Z",
+      "content": "KYIV, Ukraine (AP) A drone-borne explosive device detonated Sunday at the headquarters of Russias Black Sea Fleet, injuring six people, officials said.\r\nThe explosion at the headquarters in the city … [+1054 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Paradise Afshar, CNN",
+      "title": "Northern California wildfire exacerbated by weather, causing significant growth - CNN",
+      "description": "A wildfire raging in Northern California was exacerbated by winds from thunderstorms on Friday evening, causing significant growth, officials said.",
+      "url": "https://www.cnn.com/2022/07/30/weather/mckinney-wildfire-northern-california/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220730210827-01-mckinney-fire-0730-super-tease.jpg",
+      "publishedAt": "2022-07-31T10:31:00Z",
+      "content": "(CNN)A wildfire raging in Northern California was exacerbated by winds from thunderstorms on Friday evening, causing significant growth, officials said.\r\nThe fire has already burned 30,000-40,000 acr… [+1916 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Landon Mion",
+      "title": "Ukrainian president declares mandatory evacuation of Donetsk region - Fox News",
+      "description": "The Ukrainian president said Saturday that the government had ordered a mandatory evacuation of the Donetsk region. He urged those in the larger Donbas region to leave as well.",
+      "url": "https://www.foxnews.com/world/ukrainian-president-declares-mandatory-evacuation-donetsk-region",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/05/Zelenskyy-2.jpg",
+      "publishedAt": "2022-07-31T09:12:20Z",
+      "content": "Ukrainian President Volodymyr Zelenskyy announced Saturday a mandatory evacuation for residents of the country's eastern Donetsk region amid intense fighting in the ongoing war with Russia.\r\nThe pres… [+3278 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "U.S. House Speaker Pelosi begins Asia tour, no mention of Taiwan - Reuters.com",
+      "description": "U.S. House of Representatives Speaker Nancy Pelosi starts a tour of four Asian countries on Sunday, her office said, without mentioning Taiwan amid intense speculation she might visit the self-ruled island claimed by China.",
+      "url": "https://www.reuters.com/world/asia-pacific/china-air-force-referring-taiwan-says-it-can-safeguard-territorial-integrity-2022-07-31/",
+      "urlToImage": "https://www.reuters.com/resizer/e6GLqO1cfUEhYZ3Olpg1r43T2sQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3CTLNMJ4XBKVXEXUVJGNAC2JO4.jpg",
+      "publishedAt": "2022-07-31T08:26:00Z",
+      "content": "BEIJING, July 31 (Reuters) - U.S. House of Representatives Speaker Nancy Pelosi starts a tour of four Asian countries on Sunday, her office said, without mentioning Taiwan amid intense speculation sh… [+2481 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Joan E Greve, Lauren Gambino",
+      "title": "US faces new era of political violence as threats against lawmakers rise - The Guardian US",
+      "description": "Members of the House will now get up to $10,000 to upgrade their home security as experts warn such threats endanger the health of US democracy",
+      "url": "https://amp.theguardian.com/us-news/2022/jul/31/us-political-violence-threats-against-lawmakers",
+      "urlToImage": null,
+      "publishedAt": "2022-07-31T08:13:00Z",
+      "content": "House of RepresentativesMembers of the House will now get up to $10,000 to upgrade their home security as experts warn such threats endanger the health of US democracy\r\nSun 31 Jul 2022 09.00 BST\r\nMem… [+9886 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TMZ"
+      },
+      "author": "TMZ Staff",
+      "title": "Rapper JayDaYoungan Ambushed By 5 Gunmen In Shooting Death, Father Says - TMZ",
+      "description": "Popular Louisiana rapper JayDaYoungan was ambushed by 5 gunmen in his shooting death, according to his dad, who was there when his son was gunned down.",
+      "url": "https://www.tmz.com/2022/07/31/rapper-jaydayoungan-ambushed-five-gunmen-dad-details-fatal-shooting/",
+      "urlToImage": "https://imagez.tmz.com/image/c6/16by9/2022/07/29/c65fe82aecee462787384d131a90ab1a_xl.jpg",
+      "publishedAt": "2022-07-31T08:00:00Z",
+      "content": "Popular Louisiana rapper JayDaYoungan was fatally ambushed by 5 gunmen ... according to his father, who was there when his son was gunned down.\r\nThe slain rapper's dad, Kenyatta Scott, tells TMZ ... … [+1345 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Sharif Paget and Christina Maxouris, CNN",
+      "title": "Remnants of an uncontrolled Chinese rocket reentered the atmosphere over the Indian Ocean, US Space Command says - CNN",
+      "description": "Remnants of a massive Chinese rocket that was descending uncontrollably back to Earth reentered the atmosphere over the Indian Ocean at roughly 12:45 p.m. ET Saturday, the US Space Command said on Twitter.",
+      "url": "https://www.cnn.com/2022/07/30/world/china-rocket-debris-enters-atmosphere/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220730154026-01-ugc-china-rocket-debris-reentry-path-super-tease.jpg",
+      "publishedAt": "2022-07-31T07:51:00Z",
+      "content": "(CNN)Remnants of a massive Chinese rocket that was descending uncontrollably back to Earth reentered the atmosphere over the Indian Ocean at roughly 12:45 p.m. ET Saturday, the US Space Command said … [+2533 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Monkeypox Outbreak: How it spreads, who is at risk? | Latest English News | WION - WION",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYOLg_uOTgEQ",
+      "urlToImage": null,
+      "publishedAt": "2022-07-31T05:57:14Z",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "MLB trade deadline: statuses of Juan Soto, Shohei Ohtani; top buyers, sellers among things to know - CBS Sports",
+      "description": "The 2022 MLB trade deadline will pass at 6 p.m. on Tuesday, Aug. 2",
+      "url": "https://www.cbssports.com/mlb/news/mlb-trade-deadline-statuses-of-juan-soto-shohei-ohtani-top-buyers-sellers-among-things-to-know/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/07/30/fcd6915f-348b-4131-bc60-a66b1833ae33/thumbnail/1200x675/57f1c5ee8b804a16721cb2369b039c40/juan-soto-nationals-5.jpg",
+      "publishedAt": "2022-07-31T05:15:00Z",
+      "content": "Major League Baseball's teams have only a few more days to finalize their summer shopping, as this year's trade deadline will pass at 6 p.m. ET on Tuesday, Aug. 2. After that point, teams will no lon… [+6344 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Ryan Gajewski",
+      "title": "Sylvester Stallone Doubles Down on ‘Rocky’ Ownership Complaints Over ‘Drago’ Spinoff - Hollywood Reporter",
+      "description": "Logo text Sylvester Stallone has more to say about the Rocky franchise in light of MGM developing a film spinoff centering on Ivan Drago. Stallone — who wrote the screenplay for 1976’s Oscar-winning Rocky, in which he starred as boxer Rocky Balboa — took to I…",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/sylvester-stallone-drago-spinoff-rocky-dispute-1235189756/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/07/MCDROFO_MG010.jpg?w=1024",
+      "publishedAt": "2022-07-31T03:56:54Z",
+      "content": "Sylvester Stallone has more to say about the Rocky franchise in light of MGM developing a film spinoff centering on Ivan Drago. \r\nStallone — who wrote the screenplay for 1976’s Oscar-winning Rocky, i… [+3526 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "China's factory activity contracts unexpectedly in July as COVID flares up - Reuters",
+      "description": "China's factory activity contracted unexpectedly in July after bouncing back from COVID-19 lockdowns the month before, as fresh virus flare-ups and a darkening global outlook weighed on demand, a survey showed on Sunday.",
+      "url": "https://www.reuters.com/markets/asia/chinas-factory-activity-contracts-unexpectedly-july-official-pmi-2022-07-31/",
+      "urlToImage": "https://www.reuters.com/resizer/AVxxFbU4icYK-Xy1xEwWZOhvbVk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IHC2RPUJONNP7MCQGWQDFMMD6I.jpg",
+      "publishedAt": "2022-07-31T03:46:00Z",
+      "content": "BEIJING, July 31 (Reuters) - China's factory activity contracted unexpectedly in July after bouncing back from COVID-19 lockdowns the month before, as fresh virus flare-ups and a darkening global out… [+3275 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Valerie Complex",
+      "title": "Comedian Chris Rock Jokes About Being Slapped By Will Smith At Recent Show In Atlanta - Deadline",
+      "description": "Chris Rock had his first comedy show since getting a public apology from Will Smith for being on the receiving end of a slap from him at the 2022 Oscars. During the show at the Fox theater in Atlanta he told a few jokes about the experience according to Peopl…",
+      "url": "https://deadline.com/2022/07/comedian-chris-rock-jokes-about-being-slapped-1235081806/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2021/01/AAAABXrzCgavc_dgIiniBXnHQdvHDV2d3kaQ_YRxhoWxeVN1N1HzhhRlQuoNswBneCimlET-Ouswfa4tdou8IU8sagbE-9jf.jpg?w=1024",
+      "publishedAt": "2022-07-31T03:30:00Z",
+      "content": "Chris Rock had his first comedy show since getting a public apology from Will Smith for being on the receiving end of a slap from him at the 2022 Oscars. During the show at the Fox theater in Atlanta… [+1843 chars]"
+    },
+    {
+      "source": {
+        "id": "bleacher-report",
+        "name": "Bleacher Report"
+      },
+      "author": "Adam Wells",
+      "title": "Juan Soto Trade Rumors: Padres' C.J. Abrams, Top Prospects Available in Talks - Bleacher Report",
+      "description": "As the Washington Nationals continue to decide if they are going to trade Juan Soto,",
+      "url": "https://bleacherreport.com/articles/10043869-juan-soto-trade-rumors-padres-cj-abrams-top-prospects-available-in-talks",
+      "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_3800,q_95/v1659230032/dwose2dqvoei1okjfvjf.jpg",
+      "publishedAt": "2022-07-31T03:06:51Z",
+      "content": "Greg Fiume/Getty Images\r\nAs the Washington Nationals continue to decide if they are going to trade Juan Soto, we now have some idea of what the San Diego Padres will be willing to deal for the two-ti… [+2859 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "mlive.com"
+      },
+      "author": "Ricardo Quintanilla | rquintanilla@mlive.com",
+      "title": "Two dead, several injured after SUV crashes into Make-A-Wish bike tour - MLive.com",
+      "description": "According to the sheriff’s office, the SUV driver who hit riders was arrested for operating while intoxicated causing death. He was taken to jail after receiving medical treatment. The cyclists were participating in the Wish-A-Mile Bicycle tour, the largest M…",
+      "url": "https://www.mlive.com/news/grand-rapids/2022/07/several-injured-two-dead-after-suv-crashes-into-make-a-wish-bike-tour.html",
+      "urlToImage": "https://www.mlive.com/resizer/6JZmFJSKwU8JWcvlKy4Pnn9-9eI=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SG2R2FXAWRALXMUJ3SEX2TU3KE.JPG",
+      "publishedAt": "2022-07-31T03:01:00Z",
+      "content": "IONIA TOWNSHIP, MI Two people have died and three were hurt after police said an SUV crashed into a group of cyclists participating in a Make-A-Wish event Saturday, July 30.\r\nWXMI Fox 17 reports that… [+1621 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Sophie Reardon",
+      "title": "President Biden tests positive for COVID again, will return to isolation - CBS News",
+      "description": "The president feels \"quite well\" and his doctor said he will not begin any sort of treatment at this time.",
+      "url": "https://www.cbsnews.com/news/joe-biden-tests-positive-for-covid-19-again-will-isolate-white-house-physician-says/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/07/10/02a631ca-71a7-4053-98a6-e4924ee542c9/thumbnail/1200x630/7286cb7dfe055a7654fede2ae9ab193c/download.jpg",
+      "publishedAt": "2022-07-31T01:29:00Z",
+      "content": "President Joe Biden has tested positive for COVID-19 again, just days after he recovered from his previous case of the virus, the White House physician said in a statement Saturday. He is not experie… [+3953 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FOX 31 Denver"
+      },
+      "author": "Morgan Whitley",
+      "title": "Local Mega Millions tickets cash out $90K in winnings - FOX 31 Denver",
+      "description": "The Mega Millions’ second-largest jackpot was won on Friday. Unfortunately, no one from Colorado became a billionaire, but a few lucky people walked away with some big prize money.",
+      "url": "https://kdvr.com/news/local/local-mega-millions-tickets-cash-out-90k-in-winnings/",
+      "urlToImage": "https://kdvr.com/wp-content/uploads/sites/11/2022/07/GettyImages-1297834427-1.jpg?w=1280",
+      "publishedAt": "2022-07-31T01:24:25Z",
+      "content": "DENVER (KDVR) The Mega Millions’ second-largest jackpot was won on Friday. Unfortunately, no one from Colorado became a billionaire, but a few lucky people walked away with some big prize money. \r\nAc… [+1389 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Mashable Team",
+      "title": "'Wordle' today: Here's the answer, hints for July 31 - Mashable",
+      "description": "Stuck on 'Wordle' #407? We're here to help with tips, clues, and the answer. Spoilers within.",
+      "url": "https://mashable.com/article/wordle-today-answer-july-31",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/00Z2HZHyCmhivP3XodHR5t7/hero-image.fill.size_1200x675.v1659105619.jpg",
+      "publishedAt": "2022-07-31T01:02:08Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Irie Sentner",
+      "title": "Spain confirms country's second monkeypox death in as many days - New York Post ",
+      "description": "The death came one week after the World Health Organization declared the outbreak a global health emergency.",
+      "url": "https://nypost.com/2022/07/30/spain-confirms-second-monkeypox-death-third-outside-of-africa/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/07/spain-death-monkeypox-04.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2022-07-31T00:39:00Z",
+      "content": "Two people in Spain have died from monkeypox.\r\nThe Spanish Health Ministry on Saturday reported the country’s second death from the outbreak in as many days, marking the first fatalities in Europe an… [+1963 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "OregonLive"
+      },
+      "author": "The Associated Press",
+      "title": "California wildfire 10 miles south of Oregon border deemed ‘very dangerous’ by officials - OregonLive",
+      "description": "“It’s a very dangerous fire — the geography there is steep and rugged, and this particular area hasn’t burned in a while,” he said. Over 100 homes were ordered evacuated in Siskiyou County and authorities were warning people to be on high alert. Smoke from th…",
+      "url": "https://www.oregonlive.com/wildfires/2022/07/california-wildfire-10-miles-south-of-oregon-border-deemed-very-dangerous-by-officials.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/7vF7WIJXabeOiGjK58Py1EMm5FA=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UGAA3YA3W5GHFKF2QEHZWCY6NA.jpg",
+      "publishedAt": "2022-07-31T00:21:00Z",
+      "content": "Wildfires in California near the Oregon border and in Montana exploded in size overnight amid windy, hot conditions and were quickly encroaching on neighborhoods, forcing evacuation orders for over 1… [+6014 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Bryan Armen Graham",
+      "title": "Henrik Stenson leads LIV event but Donald Trump circus steals limelight - The Guardian",
+      "description": "LIV Golf event takes a back seat as the crowds give former president a big welcome at his own golf club",
+      "url": "https://amp.theguardian.com/sport/2022/jul/31/henrik-stenson-leads-but-donald-trump-steals-the-limelight",
+      "urlToImage": null,
+      "publishedAt": "2022-07-31T00:11:00Z",
+      "content": "LIV Golf SeriesLIV Golf event takes a back seat as the crowds give former president a big welcome at his own golf club\r\nIt didnt take long for the barely veiled political undertones surrounding the L… [+4443 chars]"
+    }
+  ]
+}
